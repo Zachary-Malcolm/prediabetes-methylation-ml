@@ -1,0 +1,8 @@
+# The GEO data (about 1.8 GB) and the cached matrix are downloaded/built locally, never committed
+Data/
+
+__pycache__/
+.venv/
+.ipynb_checkpoints/
+.vscode/
+.idea/
